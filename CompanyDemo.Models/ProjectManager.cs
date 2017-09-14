@@ -20,6 +20,6 @@ namespace CompanyDemo.Models
 
         public virtual Director Director { get; set; }
 
-        public virtual ICollection<Team> Teams { get; set; }
+        public virtual ICollection<Project> Projects { get; set; }
     }
 }

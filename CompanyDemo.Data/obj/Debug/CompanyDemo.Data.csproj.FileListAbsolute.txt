@@ -32,3 +32,6 @@ C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Da
 C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Data\obj\Debug\CompanyDemo.Data.csproj.CoreCompileInputs.cache
 C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Data\obj\Debug\CompanyDemo.Data.dll
 C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Data\obj\Debug\CompanyDemo.Data.pdb
+C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Data\obj\Debug\CompanyDemo.Data.Migrations.InitialCreate.resources
+C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Data\obj\Debug\CompanyDemo.Data.csproj.GenerateResource.Cache
+C:\Users\i345136\Desktop\Docs\CompanyDemo\CompanyDemo\CompanyDemo\CompanyDemo.Data\obj\Debug\CompanyDemo.Data.Migrations.project_entity.resources

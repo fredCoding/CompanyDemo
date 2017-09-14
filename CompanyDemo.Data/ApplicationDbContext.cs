@@ -18,6 +18,8 @@
 
         public DbSet<TeamLead> TeamLeads { get; set; }
 
+        public DbSet<Project> Projects { get; set; }
+
         public DbSet<ProjectManager> ProjectManangers { get; set; }
 
         public DbSet<Director> Directors { get; set; }

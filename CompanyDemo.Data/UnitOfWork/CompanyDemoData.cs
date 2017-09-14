@@ -30,6 +30,58 @@ namespace CompanyDemo.Data.UnitOfWork
                 return this.GetRepository<ApplicationUser>();
             }
         }
+
+        public IRepository<Chief> Chiefs
+        {
+            get
+            {
+                return this.GetRepository<Chief>();
+            }
+        }
+        public IRepository<Director> Directors
+        {
+            get
+            {
+                return this.GetRepository<Director>();
+            }
+        }
+        public IRepository<ProjectManager> ProjectManagers
+        {
+            get
+            {
+                return this.GetRepository<ProjectManager>();
+            }
+        }
+        public IRepository<Project> Projects
+        {
+            get
+            {
+                return this.GetRepository<Project>();
+            }
+        }
+        public IRepository<Team> Teams
+        {
+            get
+            {
+                return this.GetRepository<Team>();
+            }
+        }
+        public IRepository<TeamLead> TeamLeads
+        {
+            get
+            {
+                return this.GetRepository<TeamLead>();
+            }
+        }
+        public IRepository<Employee> Employees
+        {
+            get
+            {
+                return this.GetRepository<Employee>();
+            }
+        }
+
+
         public int SaveChanges()
         {
             return this.dbContext.SaveChanges();

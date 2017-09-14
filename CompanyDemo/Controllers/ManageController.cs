@@ -7,6 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using CompanyDemo.Models;
+using CompanyDemo.ViewModels;
 
 namespace CompanyDemo.Controllers
 {

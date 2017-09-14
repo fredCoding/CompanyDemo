@@ -12,7 +12,7 @@ namespace CompanyDemo.Models
 
         public virtual TeamLead TeamLead { get; set; }
 
-        public virtual ProjectManager Manager { get; set; }
+        public virtual Project Project { get; set; }
 
         public virtual ICollection<Employee> Members { get; set; }
     }
